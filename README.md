@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**tohar777/tohar777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 8th grade student in israel programming and creating software is my hobby and my dream job to get into
 
-Here are some ideas to get you started:
+## Projects that I created
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- OpenEvent-a social media to create and publish events that anyone can see from anywhere
+- Physics Mod-a really "good" gmod clone game for learning haxe and flixel
+
+## currently working
+
+## MetaLab
+
+a project to create advance calcs and math with coding with embeded lua,the priject will be created in C++,js,lua and python(for calcs and math
+
+contant me:zionitoar452@gmail.com
