@@ -1,21 +1,19 @@
 ## Hi there 
 
-I'm Tohar,I'm an 9th grade student in israel programming and creating software is my hobby and my dream job to get into
+I'm Tohar,I'm an 9th grade student from israel,programming and creating software is my hobby and my dream job is to get into the industry! :)
 
 ## Projects that I created
 
 - OpenEvent-a social media to create and publish events that anyone can see from anywhere
 - Physics Mod-a really "good" gmod clone game for learning haxe and flixel link: https://www.newgrounds.com/portal/view/903782
 
-## currently working
+## currently learning!
 
-## MetaLab
+-Vulkan & OpenGL
+Advance C++
 
-a project to create advance calcs and math with coding with embeded lua,the priject will be created in js,lua and python(for calcs and math
+## currently working!
 
-## CreativeHX 
-
-a haxe Unity-LIke Style game engine written in java 
-
+- A Simple Game Engine using OpenGL or Vulken
 
 contant me:zionitoar452@gmail.com
