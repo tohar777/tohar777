@@ -9,8 +9,7 @@ I'm Tohar,I'm an 9th grade student from israel,programming and creating software
 
 ## currently learning!
 
--Vulkan & OpenGL
-Advance C++
+-OpenGL & Advance C++
 
 ## currently working!
 
