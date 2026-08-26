@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey Everyone,Tohar.<br>I’m currently developing ActiveFX(a way to create Link applications on the web using pre-made frameworks for AFX) and learning OpenGL using the redbook ;D
+Hey Everyone,Tohar
 
 
 # 💻 Tech Stack:
